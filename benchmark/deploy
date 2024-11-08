@@ -17,8 +17,8 @@ output = JSON
 
 vim credentials
 [default]
-aws_access_key_id = AKIA6PSSFM6S5VW77KWH
-aws_secret_access_key = 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
+aws_access_key_id = AKIA3FLD2TUR5MI5PKSF
+aws_secret_access_key = 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
 
 
 ssh -i /home/lty/ltlr.pem ubuntu@52.221.213.136
